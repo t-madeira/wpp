@@ -1,0 +1,8 @@
+cc=55
+phone=553288754674
+password=sYslblZgOKXgnfF+TWJ2R5Lehwo=
+
+#yowsup-cli registration --requestcode sms --phone 553288754674 --cc 55 --mcc 724 --mnc 31 --env android
+#yowsup-cli registration --register 982988 --phone 553288754674 --cc 55 --env android
+
+#yowsup-cli demos -y -d -c config.txt
