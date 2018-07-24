@@ -1,7 +1,7 @@
 import os
 import datetime
 
-mensagem = "Quarta-feira é feriado."
+mensagem = "Quarta-feira é feriado. A"
 file = open("contatos.txt", "r")
 
 # for line in file:
